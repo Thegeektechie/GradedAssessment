@@ -1,0 +1,15 @@
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\bin\Debug\net6.0\GradedAssessment.exe
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\bin\Debug\net6.0\GradedAssessment.deps.json
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\bin\Debug\net6.0\GradedAssessment.runtimeconfig.json
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\bin\Debug\net6.0\GradedAssessment.dll
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\bin\Debug\net6.0\GradedAssessment.pdb
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\obj\Debug\net6.0\GradedAssessment.csproj.AssemblyReference.cache
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\obj\Debug\net6.0\GradedAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\obj\Debug\net6.0\GradedAssessment.AssemblyInfoInputs.cache
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\obj\Debug\net6.0\GradedAssessment.AssemblyInfo.cs
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\obj\Debug\net6.0\GradedAssessment.csproj.CoreCompileInputs.cache
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\obj\Debug\net6.0\GradedAssessment.dll
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\obj\Debug\net6.0\refint\GradedAssessment.dll
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\obj\Debug\net6.0\GradedAssessment.pdb
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\obj\Debug\net6.0\GradedAssessment.genruntimeconfig.cache
+C:\Users\THE GEEK TECHNOLOGY\Desktop\GradedAssessment\obj\Debug\net6.0\ref\GradedAssessment.dll
